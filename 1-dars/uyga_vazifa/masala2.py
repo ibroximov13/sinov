@@ -1,0 +1,7 @@
+son1 = input("Birinchi sonni kiriting: ")
+son2 = input("Ikkinchi sonni kiriting: ")
+natija = int(son1)+int(son2)
+print("Natija:",natija)
+#son1 = int(input("Birinchi sonni kiriting: "))
+#son2 = int(input("Ikkinchi sonni kiriting: "))
+#print("Natija:",son1+son2)
